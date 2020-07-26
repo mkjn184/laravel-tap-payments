@@ -4,16 +4,16 @@ Laravel package for https://www.tap.company
 
 ## Installation
 
-Add `vmdevelopment/laravel-tap-payments` to your `composer.json`.
+Add `mkjn184/laravel-tap-payments` to your `composer.json`.
 ```
-"vmdevelopment/laravel-tap-payments": "dev-master"
+"mkjn184/laravel-tap-payments": "dev-master"
 ```
 
 Run `composer update` to pull down the latest version of package.
 
 OR simply run
 ```
-composer require "vmdevelopment/laravel-tap-payments"
+composer require "mkjn184/laravel-tap-payments"
 ```
 
 For laravel >=5.5 that's all. This package supports Laravel new Package Discovery.
